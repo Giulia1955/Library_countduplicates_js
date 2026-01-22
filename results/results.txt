@@ -1,0 +1,9 @@
+Duplicated words in paragraph 5:
+uma
+
+Duplicated words in paragraph 12:
+dispositivos, web, seu, conectado
+
+Duplicated words in paragraph 14:
+cliente, uma, para
+
